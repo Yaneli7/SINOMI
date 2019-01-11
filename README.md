@@ -1,0 +1,2 @@
+# SINOMI
+Sistema de nomina
